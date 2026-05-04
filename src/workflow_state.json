@@ -90,7 +90,10 @@
     "decision": "success"
   },
   "CUST-0005": {
-    "ingestion": "failed"
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0016": {
     "ingestion": "success",
@@ -105,7 +108,10 @@
     "decision": "success"
   },
   "CUST-0008": {
-    "ingestion": "failed"
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0021": {
     "ingestion": "success",
@@ -183,7 +189,7 @@
     "ingestion": "success",
     "matching": "success",
     "validation": "success",
-    "decision": "failed"
+    "decision": "success"
   },
   "CUST-0033": {
     "ingestion": "success",
@@ -201,7 +207,7 @@
     "ingestion": "success",
     "matching": "success",
     "validation": "success",
-    "decision": "failed"
+    "decision": "success"
   },
   "CUST-0037": {
     "ingestion": "success",
@@ -212,7 +218,8 @@
   "CUST-0038": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0039": {
     "ingestion": "success",
@@ -420,7 +427,9 @@
   },
   "CUST-0073": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0074": {
     "ingestion": "success",
@@ -544,7 +553,9 @@
   },
   "CUST-0096": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0097": {
     "ingestion": "success",
@@ -664,7 +675,7 @@
     "ingestion": "success",
     "matching": "success",
     "validation": "success",
-    "decision": "failed"
+    "decision": "success"
   },
   "CUST-0111": {
     "ingestion": "success",
@@ -759,7 +770,8 @@
   "CUST-0130": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0131": {
     "ingestion": "success",
@@ -943,7 +955,9 @@
   },
   "CUST-0160": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0161": {
     "ingestion": "success",
@@ -1134,7 +1148,8 @@
   "CUST-0193": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0194": {
     "ingestion": "success",
@@ -1212,7 +1227,7 @@
     "ingestion": "success",
     "matching": "success",
     "validation": "success",
-    "decision": "failed"
+    "decision": "success"
   },
   "CUST-0206": {
     "ingestion": "success",
@@ -1349,7 +1364,8 @@
   "CUST-0228": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0230": {
     "ingestion": "success",
@@ -1444,7 +1460,8 @@
   "CUST-0245": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0246": {
     "ingestion": "success",
@@ -1604,7 +1621,9 @@
   },
   "CUST-0273": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0267": {
     "ingestion": "success",
@@ -1722,7 +1741,9 @@
   },
   "CUST-0287": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0289": {
     "ingestion": "success",
@@ -1794,7 +1815,7 @@
     "ingestion": "success",
     "matching": "success",
     "validation": "success",
-    "decision": "failed"
+    "decision": "success"
   },
   "CUST-0305": {
     "ingestion": "success",
@@ -1983,7 +2004,10 @@
     "decision": "success"
   },
   "CUST-0318": {
-    "ingestion": "failed"
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0321": {
     "ingestion": "success",
@@ -2089,7 +2113,9 @@
   },
   "CUST-0353": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0355": {
     "ingestion": "success",
@@ -2250,7 +2276,8 @@
   "CUST-0381": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0382": {
     "ingestion": "success",
@@ -2321,7 +2348,8 @@
   "CUST-0393": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0394": {
     "ingestion": "success",
@@ -2439,7 +2467,9 @@
   },
   "CUST-0417": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0415": {
     "ingestion": "success",
@@ -2520,7 +2550,10 @@
     "decision": "success"
   },
   "CUST-0413": {
-    "ingestion": "failed"
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0425": {
     "ingestion": "success",
@@ -2566,7 +2599,9 @@
   },
   "CUST-0435": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0434": {
     "ingestion": "success",
@@ -2660,7 +2695,9 @@
   },
   "CUST-0452": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0450": {
     "ingestion": "success",
@@ -2855,7 +2892,10 @@
     "decision": "success"
   },
   "CUST-0479": {
-    "ingestion": "failed"
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0470": {
     "ingestion": "success",
@@ -3046,7 +3086,8 @@
   "CUST-0517": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0518": {
     "ingestion": "success",
@@ -3328,7 +3369,7 @@
     "ingestion": "success",
     "matching": "success",
     "validation": "success",
-    "decision": "failed"
+    "decision": "success"
   },
   "CUST-0561": {
     "ingestion": "success",
@@ -4311,7 +4352,8 @@
   "CUST-0728": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0729": {
     "ingestion": "success",
@@ -4459,7 +4501,9 @@
   },
   "CUST-0752": {
     "ingestion": "success",
-    "matching": "failed"
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0754": {
     "ingestion": "success",
@@ -4843,7 +4887,7 @@
     "ingestion": "success",
     "matching": "success",
     "validation": "success",
-    "decision": "failed"
+    "decision": "success"
   },
   "CUST-0817": {
     "ingestion": "success",
@@ -5274,7 +5318,8 @@
   "CUST-0888": {
     "ingestion": "success",
     "matching": "success",
-    "validation": "failed"
+    "validation": "success",
+    "decision": "success"
   },
   "CUST-0889": {
     "ingestion": "success",
@@ -5616,7 +5661,7 @@
     "ingestion": "success",
     "matching": "success",
     "validation": "success",
-    "decision": "failed"
+    "decision": "success"
   },
   "CUST-0946": {
     "ingestion": "success",

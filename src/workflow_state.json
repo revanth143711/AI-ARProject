@@ -1,0 +1,5957 @@
+{
+  "CUST-0001": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0002": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0003": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0004": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0006": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0007": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0009": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0010": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0012": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0015": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0011": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0014": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0013": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0017": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0018": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0005": {
+    "ingestion": "failed"
+  },
+  "CUST-0016": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0020": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0008": {
+    "ingestion": "failed"
+  },
+  "CUST-0021": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0025": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0026": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0023": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0022": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0024": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0019": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0027": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0028": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0029": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0030": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0031": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0032": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "failed"
+  },
+  "CUST-0033": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0034": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0035": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "failed"
+  },
+  "CUST-0037": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0038": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0039": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0040": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0041": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0042": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0036": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0043": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0044": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0045": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0046": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0047": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0048": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0049": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0050": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0051": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0052": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0053": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0055": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0054": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0056": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0057": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0058": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0059": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0061": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0062": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0063": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0065": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0066": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0067": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0068": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0069": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0070": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0060": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0071": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0072": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0073": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0074": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0075": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0078": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0064": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0076": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0079": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0077": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0080": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0081": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0082": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0083": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0084": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0085": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0086": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0087": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0089": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0090": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0091": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0093": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0094": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0096": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0097": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0098": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0088": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0095": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0092": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0100": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0101": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0102": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0104": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0105": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0099": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0106": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0103": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0107": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0108": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0113": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0116": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0117": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0112": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0115": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "failed"
+  },
+  "CUST-0111": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0109": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0118": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0119": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0120": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0121": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0122": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0123": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0124": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0110": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0114": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0125": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0127": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0128": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0129": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0130": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0131": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0132": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0134": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0135": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0136": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0137": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0138": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0139": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0126": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0140": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0141": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0143": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0144": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0145": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0147": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0148": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0149": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0150": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0133": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0146": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0151": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0152": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0153": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0154": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0155": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0156": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0158": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0159": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0142": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0157": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0160": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0161": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0162": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0165": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0166": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0167": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0168": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0169": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0170": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0163": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0171": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0172": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0173": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0174": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0175": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0176": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0177": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0178": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0179": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0180": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0164": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0181": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0182": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0183": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0184": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0185": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0187": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0188": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0189": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0190": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0191": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0192": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0193": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0194": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0195": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0196": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0197": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0198": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0186": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0199": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0200": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0201": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0204": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0205": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0207": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0208": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "failed"
+  },
+  "CUST-0206": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0203": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0202": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0209": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0211": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0212": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0213": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0214": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0215": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0216": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0217": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0218": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0219": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0220": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0221": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0222": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0223": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0210": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0224": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0225": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0226": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0227": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0228": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0230": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0232": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0233": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0234": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0229": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0235": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0236": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0238": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0239": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0240": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0231": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0241": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0242": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0243": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0244": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0245": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0246": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0248": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0249": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0247": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0237": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0250": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0251": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0252": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0253": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0254": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0255": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0256": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0257": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0258": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0261": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0262": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0259": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0263": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0260": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0264": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0265": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0266": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0268": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0269": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0271": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0272": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0273": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0267": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0270": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0274": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0275": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0276": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0277": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0278": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0279": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0280": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0281": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0282": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0283": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0284": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0285": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0286": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0288": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0290": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0291": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0292": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0287": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0289": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0295": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0296": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0298": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0299": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0300": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0301": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0294": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0297": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0293": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0302": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0304": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "failed"
+  },
+  "CUST-0305": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0306": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0303": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0307": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0309": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0310": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0311": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0312": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0313": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0314": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0316": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0317": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0315": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0308": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0319": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0320": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0322": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0323": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0324": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0326": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0327": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0328": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0329": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0330": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0331": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0332": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0333": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0334": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0335": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0336": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0325": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0318": {
+    "ingestion": "failed"
+  },
+  "CUST-0321": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0337": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0339": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0340": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0341": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0342": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0343": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0344": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0345": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0346": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0347": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0348": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0349": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0338": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0350": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0351": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0352": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0353": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0355": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0356": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0357": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0359": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0361": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0362": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0354": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0363": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0364": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0365": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0366": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0367": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0369": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0358": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0368": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0360": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0370": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0372": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0374": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0376": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0373": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0375": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0371": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0377": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0378": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0380": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0381": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0382": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0383": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0384": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0385": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0387": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0386": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0379": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0388": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0389": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0390": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0391": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0393": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0394": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0395": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0396": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0398": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0397": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0392": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0399": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0400": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0402": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0403": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0405": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0406": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0404": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0401": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0408": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0409": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0410": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0411": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0416": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0417": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0415": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0412": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0414": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0407": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0418": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0419": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0420": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0421": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0422": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0423": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0424": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0426": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0427": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0413": {
+    "ingestion": "failed"
+  },
+  "CUST-0425": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0429": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0430": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0431": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0432": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0433": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0436": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0435": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0434": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0428": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0438": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0439": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0440": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0442": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0443": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0444": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0445": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0441": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0446": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0447": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0448": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0449": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0451": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0452": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0450": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0437": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0453": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0454": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0455": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0457": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0458": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0459": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0460": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0461": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0462": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0463": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0464": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0456": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0465": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0466": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0467": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0469": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0471": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0472": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0473": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0474": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0475": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0476": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0478": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0477": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0468": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0480": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0481": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0482": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0483": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0484": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0479": {
+    "ingestion": "failed"
+  },
+  "CUST-0470": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0485": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0486": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0487": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0488": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0489": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0490": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0491": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0492": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0494": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0495": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0497": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0498": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0499": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0502": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0501": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0500": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0496": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0493": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0503": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0505": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0506": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0508": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0509": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0507": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0504": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0510": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0511": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0513": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0514": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0516": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0517": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0518": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0519": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0520": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0515": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0521": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0512": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0522": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0523": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0524": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0526": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0527": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0528": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0525": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0529": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0530": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0531": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0532": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0533": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0534": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0536": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0537": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0538": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0539": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0540": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0541": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0542": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0543": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0544": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0545": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0535": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0546": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0547": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0548": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0549": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0551": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0553": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0552": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0550": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0555": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0556": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0557": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0559": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0560": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0562": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0563": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0564": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0554": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "failed"
+  },
+  "CUST-0561": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0565": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0558": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0566": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0567": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0568": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0571": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0572": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0573": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0574": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0575": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0569": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0570": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0576": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0577": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0579": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0580": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0581": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0582": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0583": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0584": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0585": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0578": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0588": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0590": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0591": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0592": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0593": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0595": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0589": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0586": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0587": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0596": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0597": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0598": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0600": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0601": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0603": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0594": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0599": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0602": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0605": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0606": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0607": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0608": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0610": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0611": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0612": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0613": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0609": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0615": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0614": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0604": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0616": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0617": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0618": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0619": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0621": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0622": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0624": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0620": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0625": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0627": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0628": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0629": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0630": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0633": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0634": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0635": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0636": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0632": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0631": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0623": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0626": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0638": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0639": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0640": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0641": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0642": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0644": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0645": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0646": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0647": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0637": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0643": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0648": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0649": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0650": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0651": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0653": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0654": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0655": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0657": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0658": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0659": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0652": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0660": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0661": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0662": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0663": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0666": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0664": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0656": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0668": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0669": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0670": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0665": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0667": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0672": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0673": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0674": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0675": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0676": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0677": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0678": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0679": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0680": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0681": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0682": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0683": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0684": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0671": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0685": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0686": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0687": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0688": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0689": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0692": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0693": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0694": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0695": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0691": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0696": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0697": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0698": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0699": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0700": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0702": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0703": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0690": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0701": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0705": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0706": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0708": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0709": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0710": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0711": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0712": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0714": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0716": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0717": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0719": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0720": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0707": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0713": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0704": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0718": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0715": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0721": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0722": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0723": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0724": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0725": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0728": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0729": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0730": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0731": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0732": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0733": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0727": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0726": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0734": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0735": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0736": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0737": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0739": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0740": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0741": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0742": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0743": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0744": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0738": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0745": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0746": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0747": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0749": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0750": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0751": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0752": {
+    "ingestion": "success",
+    "matching": "failed"
+  },
+  "CUST-0754": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0755": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0756": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0757": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0758": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0759": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0760": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0761": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0762": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0763": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0753": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0764": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0765": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0766": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0767": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0768": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0769": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0770": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0771": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0772": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0773": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0774": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0775": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0776": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0748": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0777": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0778": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0779": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0780": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0781": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0783": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0784": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0785": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0787": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0788": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0786": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0782": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0789": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0790": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0791": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0792": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0793": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0794": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0795": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0796": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0797": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0798": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0800": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0801": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0803": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0804": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0806": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0802": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0799": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0807": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0808": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0809": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0810": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0811": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0812": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0813": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0814": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0815": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0816": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "failed"
+  },
+  "CUST-0817": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0805": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0819": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0820": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0821": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0822": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0823": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0824": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0825": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0826": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0827": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0828": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0829": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0830": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0831": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0832": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0818": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0833": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0834": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0835": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0836": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0837": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0838": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0839": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0840": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0841": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0842": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0843": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0845": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0846": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0848": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0849": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0850": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0847": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0853": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0854": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0855": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0856": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0858": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0860": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0861": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0862": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0844": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0857": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0859": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0852": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0851": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0863": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0864": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0866": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0867": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0868": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0869": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0870": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0871": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0872": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0873": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0865": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0875": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0874": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0876": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0877": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0878": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0879": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0880": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0881": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0882": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0883": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0884": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0885": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0886": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0888": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "failed"
+  },
+  "CUST-0889": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0890": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0891": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0893": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0894": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0895": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0896": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0897": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0898": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0892": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0887": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0900": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0901": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0902": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0903": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0904": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0905": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0906": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0899": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0907": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0909": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0910": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0911": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0912": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0913": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0914": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0915": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0917": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0918": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0916": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0908": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0919": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0920": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0921": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0922": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0923": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0925": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0927": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0930": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0931": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0932": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0933": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0934": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0935": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0936": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0937": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0929": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0928": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0924": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0926": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0938": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0939": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0940": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0941": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0942": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0944": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0945": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "failed"
+  },
+  "CUST-0946": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0947": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0948": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0943": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0950": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0951": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0952": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0953": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0954": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0955": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0956": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0957": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0958": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0959": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0960": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0961": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0962": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0963": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0964": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0966": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0967": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0949": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0965": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0968": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0969": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0970": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0971": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0972": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0974": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0976": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0977": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0978": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0980": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0981": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0983": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0973": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0984": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0979": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0975": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0985": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0986": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0988": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0989": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0990": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0991": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0993": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0994": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0995": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0987": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0996": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0992": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0982": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0997": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0998": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-0999": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  },
+  "CUST-1000": {
+    "ingestion": "success",
+    "matching": "success",
+    "validation": "success",
+    "decision": "success"
+  }
+}
